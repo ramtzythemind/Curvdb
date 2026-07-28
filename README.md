@@ -1,4 +1,4 @@
-# vectordb
+# CurveDB
 
 A storage engine for vectors (embeddings), written in Rust from scratch.
 
